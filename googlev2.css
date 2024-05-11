@@ -1,0 +1,27 @@
+body {
+    margin-top: 8%
+}
+
+.picture {
+    margin: auto;
+    width: 50vh;
+    height: 30vh;
+}
+
+.form-control {
+    margin-left: 25%;
+    width: 100vh;
+    height: 8vh;
+    background-color: rgb(140, 134, 126);
+
+}
+
+.btn-light1 {
+    margin-left: 35%;
+    padding: 3px;
+}
+
+.btn-light2 {
+    margin-left: 5%;
+    padding: 3px;
+}
